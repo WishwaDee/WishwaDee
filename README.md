@@ -46,8 +46,7 @@ const wishwa: Developer = {
   currentWork: "Medizen — AI-Enabled Smart Healthcare & Telemedicine Platform",
   techFocus:   ["Microservices", "Cloud Infrastructure", "Real-time Systems"],
   learning:    ["Advanced Kubernetes Orchestration", "AI/ML Integration"],
-  askMeAbout:  ["System Design", "DevOps", "React", "Node.js", "Docker"],
-  funFact:     "I debug in the dark — literally, always dark mode 🌙",
+  askMeAbout:  ["System Design", "DevOps", "React", "Node.js", "Docker"]
 };
 ```
 
@@ -61,7 +60,7 @@ const wishwa: Developer = {
 
 <div align="center">
 
-## 🏥 Featured Project — Medizen
+## 🏥 Featured Project - Medizen
 
 <img src="https://img.shields.io/badge/Status-Active%20Development-7aa2f7?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b2e"/>
 &nbsp;
@@ -71,17 +70,17 @@ const wishwa: Developer = {
 
 </div>
 
-> **Medizen** is a next-generation AI-enabled smart healthcare and telemedicine platform built on a distributed microservices architecture — designed to connect patients with doctors seamlessly, intelligently, and in real time.
+> **Medizen** is a next-generation AI-enabled smart healthcare and telemedicine platform built on a distributed microservices architecture - designed to connect patients with doctors seamlessly, intelligently, and in real time.
 
 <div align="center">
 
-### 🎯 My Role: **Member 2 — Lead Full-Stack Engineer**
+### 🎯 My Role: **Full-Stack Engineer**
 
 <br/>
 
 | # | Contribution Domain | Description | Tech Used |
 |:-:|:---|:---|:---|
-| **01** | 🩺 **Doctor Management Service** | Architected and developed the complete Doctor microservice — handling doctor profiles, availability, specializations, and secure data flows across the platform. | `Node.js` `Express` `MongoDB` `RabbitMQ` |
+| **01** | 🩺 **Doctor Management Service** | Architected and developed the complete Doctor microservice - handling doctor profiles, availability, specializations, and secure data flows across the platform. | `Node.js` `Express` `MongoDB` `RabbitMQ` |
 | **02** | 📅 **Smart Appointment Scheduling** | Built an intelligent scheduling system featuring advanced conflict-detection logic to prevent double-bookings, manage time slots dynamically, and optimize doctor calendars. | `Node.js` `MongoDB` `Custom Algo` |
 | **03** | 🎥 **Real-time Video Consultations** | Integrated live video consultation capabilities using **Agora RTC SDK**, enabling low-latency, HD doctor-patient video sessions with in-call controls. | `Agora RTC SDK` `React.js` `WebRTC` |
 | **04** | 📄 **Digital Prescription Engine** | Implemented an automated digital prescription generator — producing structured, downloadable PDF prescriptions post-consultation using **pdfkit**. | `pdfkit` `Node.js` `Express` |
@@ -211,7 +210,7 @@ const wishwa: Developer = {
 
 <br/><br/>
 
-> *"The art of programming is the art of organizing complexity."* — Edsger W. Dijkstra
+> *"The art of programming is the art of organizing complexity."* - Edsger W. Dijkstra
 
 <br/>
 
