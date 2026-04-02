@@ -218,7 +218,7 @@ const wishwa: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                              -->
+<!--                     GITHUB ANALYTICS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -227,26 +227,20 @@ const wishwa: Developer = {
 
 <br/>
 
-<a href="https://github.com/WishwaDee">
-  <img src="https://github-readme-stats.vercel.app/api?username=WishwaDee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" height="175"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/WishwaDee">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&layout=compact&langs_count=8&cache_seconds=1800" height="175"/>
-</a>
+<!-- Stats Card & Top Languages (Simplified Links) -->
+<img src="https://github-readme-stats.vercel.app/api?username=WishwaDee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=WishwaDee&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" width="60%"/>
-</a>
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=WishwaDee&theme=tokyonight&hide_border=true" width="70%"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<a href="https://github.com/WishwaDee">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WishwaDee&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&area_color=1a1b2e" width="97%"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WishwaDee&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
 </div>
 
