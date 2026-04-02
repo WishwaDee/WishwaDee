@@ -43,7 +43,7 @@ const wishwa: Developer = {
   name:        "Wishwa Dilshan",
   role:        ["Lead Full-Stack Engineer", "DevOps Enthusiast"],
   location:    "Sri Lanka 🇱🇰",
-  currentWork: "Medizen — AI-Enabled Smart Healthcare & Telemedicine Platform",
+  currentWork: "Medizen - AI-Enabled Smart Healthcare & Telemedicine Platform",
   techFocus:   ["Microservices", "Cloud Infrastructure", "Real-time Systems"],
   learning:    ["Advanced Kubernetes Orchestration", "AI/ML Integration"],
   askMeAbout:  ["System Design", "DevOps", "React", "Node.js", "Docker"]
