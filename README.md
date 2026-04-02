@@ -58,7 +58,7 @@ const wishwa: Developer = {
 
 <div align="center">
 
-## 🏥 Featured Project — Medizen
+## 🏥 Featured Project - Medizen
 
 <img src="https://img.shields.io/badge/Status-Active%20Development-7aa2f7?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b2e"/>
 &nbsp;
@@ -90,7 +90,7 @@ const wishwa: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              TECH STACK — DARK ICON GRID STYLE                -->
+<!--              TECH STACK - DARK ICON GRID STYLE                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
