@@ -71,7 +71,7 @@ const wishwa: Developer = {
 
 </div>
 
-> **Medizen** is a next-generation AI-enabled smart healthcare and telemedicine platform built on a distributed microservices architecture - designed to connect patients with doctors seamlessly, intelligently, and in real time.
+> **Medizen** is a next-generation AI-enabled smart healthcare and telemedicine platform built on a distributed microservices architecture — designed to connect patients with doctors seamlessly, intelligently, and in real time.
 
 <div align="center">
 
@@ -160,13 +160,13 @@ const wishwa: Developer = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WishwaDee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&layout=compact&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&layout=compact&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=INSERT_YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WishwaDee&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" width="49%"/>
 
 </div>
 
@@ -175,7 +175,7 @@ const wishwa: Developer = {
 <!-- Activity Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=INSERT_YOUR_GITHUB_USERNAME_HERE&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&area_color=1a1b2e" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WishwaDee&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&area_color=1a1b2e" width="97%"/>
 
 </div>
 
@@ -205,8 +205,8 @@ const wishwa: Developer = {
   <img src="https://img.shields.io/badge/Email-wishwadilshan628@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b2e"/>
 </a>
 &nbsp;
-<a href="https://github.com/INSERT_YOUR_GITHUB_USERNAME_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-INSERT__YOUR__GITHUB__USERNAME__HERE-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e"/>
+<a href="https://github.com/WishwaDee" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-WishwaDee-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e"/>
 </a>
 
 <br/><br/>
