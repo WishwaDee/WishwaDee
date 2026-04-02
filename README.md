@@ -36,19 +36,22 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
-</div>
+<br/>
 
 ```typescript
 const wishwa: Developer = {
   name:        "Wishwa Dilshan",
   role:        ["Lead Full-Stack Engineer", "DevOps Enthusiast"],
   location:    "Sri Lanka 🇱🇰",
-  currentWork: "Medizen - AI-Enabled Smart Healthcare & Telemedicine Platform",
+  currentWork: "Medizen — AI-Enabled Smart Healthcare & Telemedicine Platform",
   techFocus:   ["Microservices", "Cloud Infrastructure", "Real-time Systems"],
   learning:    ["Advanced Kubernetes Orchestration", "AI/ML Integration"],
-  askMeAbout:  ["System Design", "DevOps", "React", "Node.js", "Docker"]
+  askMeAbout:  ["System Design", "DevOps", "React", "Node.js", "Docker"],
+  funFact:     "I debug in the dark — literally, always dark mode 🌙",
 };
 ```
+
+</div>
 
 <br/>
 
@@ -60,7 +63,7 @@ const wishwa: Developer = {
 
 <div align="center">
 
-## 🏥 Featured Project - Medizen
+## 🏥 Featured Project — Medizen
 
 <img src="https://img.shields.io/badge/Status-Active%20Development-7aa2f7?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1b2e"/>
 &nbsp;
@@ -70,17 +73,17 @@ const wishwa: Developer = {
 
 </div>
 
-> **Medizen** is a next-generation AI-enabled smart healthcare and telemedicine platform built on a distributed microservices architecture - designed to connect patients with doctors seamlessly, intelligently, and in real time.
+> **Medizen** is a next-generation AI-enabled smart healthcare and telemedicine platform built on a distributed microservices architecture — designed to connect patients with doctors seamlessly, intelligently, and in real time.
 
 <div align="center">
 
-### 🎯 My Role: **Full-Stack Engineer**
+### 🎯 My Role: **Member 2 — Lead Full-Stack Engineer**
 
 <br/>
 
 | # | Contribution Domain | Description | Tech Used |
 |:-:|:---|:---|:---|
-| **01** | 🩺 **Doctor Management Service** | Architected and developed the complete Doctor microservice - handling doctor profiles, availability, specializations, and secure data flows across the platform. | `Node.js` `Express` `MongoDB` `RabbitMQ` |
+| **01** | 🩺 **Doctor Management Service** | Architected and developed the complete Doctor microservice — handling doctor profiles, availability, specializations, and secure data flows across the platform. | `Node.js` `Express` `MongoDB` `RabbitMQ` |
 | **02** | 📅 **Smart Appointment Scheduling** | Built an intelligent scheduling system featuring advanced conflict-detection logic to prevent double-bookings, manage time slots dynamically, and optimize doctor calendars. | `Node.js` `MongoDB` `Custom Algo` |
 | **03** | 🎥 **Real-time Video Consultations** | Integrated live video consultation capabilities using **Agora RTC SDK**, enabling low-latency, HD doctor-patient video sessions with in-call controls. | `Agora RTC SDK` `React.js` `WebRTC` |
 | **04** | 📄 **Digital Prescription Engine** | Implemented an automated digital prescription generator — producing structured, downloadable PDF prescriptions post-consultation using **pdfkit**. | `pdfkit` `Node.js` `Express` |
@@ -92,56 +95,126 @@ const wishwa: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
+<!--              TECH STACK — DARK ICON GRID STYLE                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## ⚡ Tech Stack & Toolbox
 
-### 🗣️ Languages
+<br/>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a1b2e?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<!-- ROW 1: Languages | DevOps & Cloud | Frontend & UI -->
+<table>
+<tr>
 
----
+<td align="center" width="33%">
 
-### 🖥️ Backend & APIs
+### 🗣️ Programming Languages
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1b2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1a1b2e?style=for-the-badge&logo=express&logoColor=ffffff)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1b2e?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-1a1b2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<br/>
 
----
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48"/>
 
-### 🎨 Frontend
+<br/><sub><b>C &nbsp;&nbsp; C++ &nbsp;&nbsp; Python &nbsp;&nbsp; Java &nbsp;&nbsp; JavaScript</b></sub>
 
-![React](https://img.shields.io/badge/React-1a1b2e?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1a1b2e?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+<br/>
 
----
+</td>
+
+<td align="center" width="33%">
 
 ### ☁️ DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-1a1b2e?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1b2e?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-1a1b2e?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![AWS](https://img.shields.io/badge/AWS-1a1b2e?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+<br/>
 
----
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48"/>
 
-### 🛠️ Tools & Workflow
+<br/><sub><b>Docker &nbsp; Kubernetes &nbsp; Terraform &nbsp; AWS</b></sub>
 
-![Git](https://img.shields.io/badge/Git-1a1b2e?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-1a1b2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-1a1b2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Linux](https://img.shields.io/badge/Linux-1a1b2e?style=for-the-badge&logo=linux&logoColor=FCC624)
+<br/>
+
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48"/>
+
+<br/><sub><b>Prometheus &nbsp; Grafana &nbsp; Redis</b></sub>
+
+<br/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎨 Frontend & UI
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48"/>
+
+<br/><sub><b>React &nbsp;&nbsp; Tailwind &nbsp;&nbsp; HTML5 &nbsp;&nbsp; CSS3</b></sub>
+
+<br/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ROW 2: Backend & DB | Tools & Platforms -->
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🖥️ Backend & Database
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="48" height="48"/>
+
+<br/><sub><b>Node.js &nbsp;&nbsp; Express &nbsp;&nbsp; MongoDB &nbsp;&nbsp; MySQL &nbsp;&nbsp; RabbitMQ</b></sub>
+
+<br/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🛠️ Tools & Platforms
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48"/>
+
+<br/><sub><b>Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Postman &nbsp;&nbsp; VS Code &nbsp;&nbsp; Linux</b></sub>
+
+<br/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -159,22 +232,26 @@ const wishwa: Developer = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=WishwaDee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<a href="https://github.com/WishwaDee">
+  <img src="https://github-readme-stats.vercel.app/api?username=WishwaDee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" height="175"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&layout=compact&langs_count=8" height="180"/>
+<a href="https://github.com/WishwaDee">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WishwaDee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&layout=compact&langs_count=8&cache_seconds=1800" height="175"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WishwaDee&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" width="49%"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=WishwaDee&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" width="60%"/>
+</a>
 
-</div>
-
-<br/>
+<br/><br/>
 
 <!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WishwaDee&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&area_color=1a1b2e" width="97%"/>
+<a href="https://github.com/WishwaDee">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WishwaDee&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&area_color=1a1b2e" width="97%"/>
+</a>
 
 </div>
 
@@ -210,7 +287,7 @@ const wishwa: Developer = {
 
 <br/><br/>
 
-> *"The art of programming is the art of organizing complexity."* - Edsger W. Dijkstra
+> *"The art of programming is the art of organizing complexity."* — Edsger W. Dijkstra
 
 <br/>
 
